@@ -1,1 +1,1 @@
-# nikolovlazar.nvim
+# 🛑 REPO MOVED TO [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) 🛑
